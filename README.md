@@ -13,7 +13,7 @@
 | Gaby            | [Profile](https://github.com/Gabyph)      | Vnzla  |
 
 
-# Creamos Telegram Chatbot para E-commerce usando las siguientes tecnologias:
+# Creamos un Telegram Chatbot para E-commerce usando las siguientes tecnologias:
 
 ### JavaScript
 ### MongoDB 
