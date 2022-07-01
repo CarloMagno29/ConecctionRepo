@@ -22,12 +22,6 @@
 ➕
 [![NodeMailer](https://img.shields.io/badge/NodeMailer-informational?style=for-the-badge&logo=nodemailer&LogoColor=F7DF1E)](https://nodemailer.com/about/)
 
-# Funcionalidades
-- [x] Buscar productos de la [FakeStoreApi](https://fakestoreapi.com/)
-- [x] Crear carrito de compras perzonalizado y añadir productos.  
-- [x] Seleccionar un método de pago + Factura enviada por email.
-- [x] Mostrar los horarios de trabajo y zonas de entrega.
-
 
 ## Dependencias
 - [Axios](https://www.npmjs.com/package/axios)
@@ -35,3 +29,11 @@
 - [Netlify CLI](https://docs.netlify.com/cli/get-started/)
 - [MongoDB](https://www.mongodb.com/languages/javascript/mongodb-and-npm-tutorial)
 - [Yup](https://www.npmjs.com/package/yup)
+
+  
+ # Funcionalidades
+- [x] Buscar productos de la [FakeStoreApi](https://fakestoreapi.com/)
+- [x] Crear carrito de compras perzonalizado y añadir productos.  
+- [x] Seleccionar un método de pago + Factura enviada por email.
+- [x] Mostrar los horarios de trabajo y zonas de entrega.
+
