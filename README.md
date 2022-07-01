@@ -4,11 +4,11 @@
 
 | Name            | Github Profile                           |Location|
 | ----------------|:-------------:| -----:                   |
-| Diego Rincon    |  [Profile](https://github.com/diegoarff) | Vnzla  |
-| Andres Contreras| [Profile](https://github.com/Andresc06)  | Vnzla  |
-| Carlos Almao    | [Profile](https://github.com/CarloMagno29)| Vnzla  |
-| Enif            | are neat      | Vnzla  |
-| Gaby            | [Profile](https://github.com/Gabyph)      | Vnzla  |
+| Diego Rincon    |  [Profile](https://github.com/diegoarff) | Venezuela  |
+| Andres Contreras| [Profile](https://github.com/Andresc06)  | Venezuela  |
+| Carlos Almao    | [Profile](https://github.com/CarloMagno29)| Venezuela  |
+| Enif            | are neat      | Venezuela  |
+| Gaby            | [Profile](https://github.com/Gabyph)      | Venezuela  |
 
 
 # Desarrollamos un ChatBot de Telegram para un E-commerce
