@@ -7,7 +7,7 @@
 | Diego Rincon    |  [Profile](https://github.com/diegoarff) | Venezuela  |
 | Andres Contreras| [Profile](https://github.com/Andresc06)  | Venezuela  |
 | Carlos Almao    | [Profile](https://github.com/CarloMagno29)| Venezuela  |
-| Enif            | are neat      | Venezuela  |
+| Enif Velasquez  | [Profile](https://github.com/EnifVelasquez)| Venezuela  |
 | Gaby            | [Profile](https://github.com/Gabyph)      | Venezuela  |
 
 
